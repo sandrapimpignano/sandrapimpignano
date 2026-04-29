@@ -16,9 +16,10 @@ My goal is to bridge the gap between technical exploitation and human behavior t
 ## 🎓 Education & Certifications
 Bridging academic theory with intensive hands‑on security training.
 
-- **Bachelor's Degree in Computer Engineering** — *Università Mercatorum — *In progress (expected: 2027)**  
+- **Bachelor's Degree in Computer Engineering** — *Università Mercatorum* — *In progress (35% complete; expected: 2027)*  
+  
 
-- **Academy in Cybersecurity: Offensive Security & Ethical Hacking** — *ITConsulting / Forma.Temp / GI Group — *240+ h — In progress (90% complete; expected: May 2026)**
+- **Academy in Cybersecurity: Offensive Security & Ethical Hacking** — *ITConsulting / Forma.Temp / GI Group*  — *240+ h — In progress (90% complete; expected: May 2026)*  
   **Focus:** Red Teaming; Penetration Testing; Post‑Exploit Automation.  
   **Proof:** https://www.itconsulting.it/
 
@@ -29,7 +30,7 @@ Bridging academic theory with intensive hands‑on security training.
 - **Cisco: Introduction to Cybersecurity** — *Completed (2026)*  
   **Focus:** Network Security Fundamentals; Data Protection.  
   [![Cisco Certified](https://img.shields.io/badge/Cisco-Certified-blue?style=flat-square&logo=cisco)](https://www.credly.com/badges/cad42fa7-1117-459b-b26e-3addc06908a6/public_url)
-
+  
 **Key skills acquired:**
 
 ---
