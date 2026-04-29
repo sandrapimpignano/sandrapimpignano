@@ -17,13 +17,14 @@ My goal is to bridge the gap between technical exploitation and human behavior t
 *Bridging academic theory with intensive hands-on security training.*
 
 * **Bachelor’s Degree in Computer Engineering** — *Università Mercatorum*
-
+    * 🎓 `[████░░░░░░░░] 35% Loading...` | *In progress*
 * **Academy in Cybersecurity: Offensive Security & Ethical Hacking** — *ITConsulting / Forma.Temp / GI Group* (240+ hours)
-    * Advanced hands-on training in Offensive Security, Malware Analysis, and OSINT.
-* **Google Cybersecurity Professional Certificate**
-    * Incident Response, Python scripting, and Linux system security.
-* **Cisco: Introduction to Cybersecurity**
-    * Network security fundamentals and data protection principles.
+    * 🛡️ `[██████████░░] 90% Loading...` | *In progress*
+    * *Advanced hands-on training in Offensive Security, Malware Analysis, and OSINT.*
+* **Google Cybersecurity Professional Certificate** (2026)
+    * *Incident Response, Python scripting, and Linux system security.*
+* **Cisco: Introduction to Cybersecurity** (2026)
+    * *Network security fundamentals and data protection principles.*
 
 ---
 
