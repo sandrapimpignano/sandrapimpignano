@@ -13,18 +13,24 @@ My goal is to bridge the gap between technical exploitation and human behavior t
 
 ---
 
-### 🎓 Education & Certifications
-*Bridging academic theory with intensive hands-on security training.*
+## 🎓 Education & Certifications
+Bridging academic theory with intensive hands‑on security training.
 
-* **Bachelor’s Degree in Computer Engineering** — *Università Mercatorum*
-    * 🎓 `[████░░░░░░░░] 35% Loading...` | *In progress*
-* **Academy in Cybersecurity: Offensive Security & Ethical Hacking** — *ITConsulting / Forma.Temp / GI Group* (240+ hours)
-    * 🛡️ `[██████████░░] 90% Loading...` | *In progress*
-    * *Advanced hands-on training in Offensive Security, Malware Analysis, and OSINT.*
-* **Google Cybersecurity Professional Certificate** (2026)
-    * *Incident Response, Python scripting, and Linux system security.*
-* **Cisco: Introduction to Cybersecurity** (2026)
-    * *Network security fundamentals and data protection principles.*
+- **Bachelor's Degree in Computer Engineering** — *Università Mercatorum — *In progress (expected: 2027)**  
+
+- **Academy in Cybersecurity: Offensive Security & Ethical Hacking** — *ITConsulting / Forma.Temp / GI Group — *240+ h — In progress (90% complete; expected: May 2026)**
+  **Focus:** Red Teaming; Penetration Testing; Post‑Exploit Automation.  
+  **Proof:** https://www.itconsulting.it/
+
+- **Google Cybersecurity Professional Certificate** — *Completed (2026)*  
+  **Focus:** Incident Response; Threat Modeling; Network Security.  
+  [![Google Certified](https://img.shields.io/badge/Google-Certified-blue?style=flat-square&logo=google)](https://www.coursera.org/account/accomplishments/specialization/21A4HLY4YSS0)
+
+- **Cisco: Introduction to Cybersecurity** — *Completed (2026)*  
+  **Focus:** Network Security Fundamentals; Data Protection.  
+  [![Cisco Certified](https://img.shields.io/badge/Cisco-Certified-blue?style=flat-square&logo=cisco)](https://www.credly.com/earner/earned/badge/cad42fa7-1117-459b-b26e-3addc06908a6)
+
+**Key skills acquired:**
 
 ---
 
