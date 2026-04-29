@@ -28,7 +28,7 @@ Bridging academic theory with intensive hands‑on security training.
 
 - **Cisco: Introduction to Cybersecurity** — *Completed (2026)*  
   **Focus:** Network Security Fundamentals; Data Protection.  
-  [![Cisco Certified](https://img.shields.io/badge/Cisco-Certified-blue?style=flat-square&logo=cisco)](https://www.credly.com/earner/earned/badge/cad42fa7-1117-459b-b26e-3addc06908a6)
+  [![Cisco Certified](https://img.shields.io/badge/Cisco-Certified-blue?style=flat-square&logo=cisco)](https://www.credly.com/badges/cad42fa7-1117-459b-b26e-3addc06908a6/public_url)
 
 **Key skills acquired:**
 
